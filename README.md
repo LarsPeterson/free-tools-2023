@@ -111,6 +111,22 @@
 
 - https://quillbot.com
 
+- https://www.copy.ai/
+
+- https://www.jasper.ai/
+
+### Social Media
+
+- https://repurpose.io/
+
+### Videos
+
+- https://www.synthesia.io/
+
+- https://lumen5.com/
+
+- https://pictory.ai/
+
 ### File Formats
 
 - https://convertio.co
@@ -140,3 +156,23 @@
 - https://resume.com
 
 - https://jsonresume.org
+
+### Forms
+
+- https://www.jotform.com/
+
+### Open Source Search
+
+- https://www.opensourcealternative.to/
+
+### Math
+
+- https://www.wolframalpha.com/
+
+### Repair Guides
+
+- https://www.ifixit.com/
+
+### eCommerce Insights
+
+- https://www.simplytrends.co/
