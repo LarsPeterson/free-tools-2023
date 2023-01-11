@@ -69,6 +69,8 @@
 
 - https://unsplash.com/
 
+- https://placeit.net/
+
 ### Image Editing
 
 - https://magicstudio.com/magiceraser: Remove unwanted objects in images in seconds
