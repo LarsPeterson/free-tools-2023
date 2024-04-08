@@ -109,6 +109,8 @@
 
 - https://bansal.io/pattern-css
 
+- https://bgjar.com/
+
 ### Copywriting
 
 - https://quillbot.com
