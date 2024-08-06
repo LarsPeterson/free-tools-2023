@@ -1,4 +1,20 @@
-# Free Tools 2023
+# Free Tools 2024
+
+This is a compliation of free tools I come across throughout my development experience.
+
+## Branding
+
+### Name Generators
+
+https://namelix.com/app
+
+https://www.brandroot.com/names
+
+### Logo Generators
+
+https://looka.com
+
+
 
 ### Tool Bundles
 
